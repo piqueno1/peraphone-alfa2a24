@@ -1,11 +1,18 @@
-body{
+body {
     background-color: #f4f4f4;
 }
-.navbar-brand{
+
+.navbar-brand {
     background-color: #fff;
     padding: 5px 10px;
     border-radius: 10px;
 }
+
 .navbar-brand img {
     width: 150px;
+}
+h2{
+    color: #5a5a5a;
+    padding-top: 30px;
+    font-weight: bold;
 }
