@@ -16,3 +16,18 @@ h2{
     padding-top: 30px;
     font-weight: bold;
 }
+.categorias div{
+    text-align: center;
+}
+footer{
+    background-color: #5a5a5a;
+    margin-top: 50px;
+    color: #fff;
+}
+footer ul li{
+    list-style: none;
+}
+footer ul li a{
+    color: #fff;
+    text-decoration: none;
+}
